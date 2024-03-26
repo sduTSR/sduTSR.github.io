@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 时空漫游
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 时空漫游团队
+language: zh
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://sduTSR.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,17 +40,18 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
-syntax_highlighter: highlight.js
 highlight:
+  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
+  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -104,3 +105,10 @@ deploy:
   type: git
   repo: git@github.com:sduTSR/sduTSR.github.io.git
   branch: gh-pages
+
+# Security
+encrypt: # hexo-blog-encrypt
+  abstract: 与 Rhodes Island™ 取得弱神经连接时需要口令
+  message: 请输入与 Rhodes Island™ 取得弱神经连接时的口令：
+  wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
+  wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.

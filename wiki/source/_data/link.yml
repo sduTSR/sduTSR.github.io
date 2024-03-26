@@ -1,0 +1,42 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: ZWN'BLOG
+      link: https://zwn2001.github.io/
+      avatar: https://zwn2001.github.io/img/favicon.png
+      descr: 启蒙移动开发的老学长
+    - name: SPIN'BLOG
+      link: https://xzx.vercel.app/
+      avatar: https://avatars.githubusercontent.com/u/94355885?v=4
+      descr: 火力少年王
+    - name: 苏喂'BLOG
+      link: http://47.100.74.245/
+      avatar: https://img1.imgtp.com/2022/10/07/EfncTsoj.png
+      descr: 我的总监，快发工资
+    - name: LHS的矩形海
+      link: https://halfatooth.github.io/
+      avatar: https://blog.sduonline.cn/wp-content/uploads/2022/07/%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90-240x300.jpg
+      descr: 这个不知道是什么东西
+    - name: 唯一的昨夜如梦
+      link: https://space.bilibili.com/1455490435/?spm_id_from=333.999.0.0
+      avatar: https://img1.imgtp.com/2022/10/06/rh6yjko8.jpg
+      descr: 未来的b站百大，赶紧关注
+    - name: 天元之弈yi
+      link: https://space.bilibili.com/389752918/?spm_id_from=333.999.0.0
+      avatar: https://img1.imgtp.com/2022/10/06/926Rlbr3.png
+      descr: 沙雕区高质量单身up主
+
+
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Bilibili
+      link: https://www.bilibili.com/
+      avatar: https://th.bing.com/th/id/OIP.4c_WWRZUJJK6eZQCcawT_gHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7
+      descr: b站大学，上课安心睡
+
+    - name: Gitbub
+      link: https://github.com/
+      avatar: https://th.bing.com/th/id/OIP.c0iIyE2V0os2corDMYbKswHaHg?w=185&h=187&c=7&r=0&o=5&dpr=1.5&pid=1.7
+      descr: 白嫖的起点，感谢前辈的分享
